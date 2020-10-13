@@ -1,13 +1,13 @@
 {
-  "name": "jzvd-doc",
+  "name": "jzvd-docs",
   "version": "0.0.1",
-  "description": "jzvd-doc",
+  "description": "jzvd文档",
   "main": "index.js",
   "authors": {
     "name": "lipangit",
     "email": "1066666651@qq.com"
   },
-  "repository": "https://github.com/Jzvd/JZVideo/jzvd-doc",
+  "repository": "https://github.com/Jzvd/JZVideo/jzvd-docs",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
