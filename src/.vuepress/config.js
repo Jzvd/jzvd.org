@@ -49,11 +49,15 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'JZPlayer',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'quick-start',
+            'primary-usage',
+            'extends-usage',
+            'list-usage',
+            'advanced-usage',
           ]
         }
       ],
