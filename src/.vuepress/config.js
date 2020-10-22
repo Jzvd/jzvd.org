@@ -35,11 +35,11 @@ module.exports = {
     nav: [
       {
         text: 'JZPlayer',
-        link: '/guide/',
+        link: '/jzplayer/',
       },
       {
         text: 'JZToken',
-        link: '/config/'
+        link: '/jztoken/'
       },
       {
         text: 'GitHub',
@@ -47,7 +47,7 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/jzplayer/': [
         {
           title: 'JZPlayer',
           collapsable: false,
@@ -58,6 +58,17 @@ module.exports = {
             'extends-usage',
             'list-usage',
             'advanced-usage',
+          ]
+        }
+      ],
+      '/jztoken/':[
+        {
+          title:'JZToken',
+          collapsable: false,
+          children: [
+            '',
+            'contract-parameters',
+            'related-links',
           ]
         }
       ],
