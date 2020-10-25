@@ -2,10 +2,9 @@
 
 通过集成JzvdStd，灵活地实现更多自定义功能和UI，效果见Demo的Tab_2
 
-应该把代码贴出来
+**任何修改UI和功能的用法都要继承JzvdStd。不要抱有侥幸和省事的想法，继承JzvdStd才是最省事的、思路最清晰的方式。**
 
-
-- AgVideo 完全自定义UI [进入源码](https://github.com/Jzvd/JZVideo/blob/develop/demo/src/main/java/cn/jzvd/demo/Tab_2_Custom/AGVideo/AGVideo.java)
+__AgVideo 完全自定义UI [进入源码](https://github.com/Jzvd/JZVideo/blob/develop/demo/src/main/java/cn/jzvd/demo/Tab_2_Custom/AGVideo/AGVideo.java)__
 
 1.继承JzvdStd后删除不需要的父类控件 [进入源码](https://github.com/Jzvd/JZVideo/blob/develop/demo/src/main/java/cn/jzvd/demo/CustomJzvd/MyJzvdStdNoTitleNoClarity.java)
 
