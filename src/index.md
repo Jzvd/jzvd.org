@@ -3,7 +3,7 @@ home: true
 heroImage: icon.png
 tagline: 高度自定义的安卓视频框架
 actionText: 进入文档
-actionLink: /jztoken/
+actionLink: /jzplayer/
 features:
 - title: 服务菜鸟
   details: 本项目最根本最重要的事情。
