@@ -81,7 +81,7 @@ module.exports = {
           title:'公告',
           collapsable: false,
           children: [
-            '20-11-11',
+            '20-11-12',
           ]
         }
       ],
