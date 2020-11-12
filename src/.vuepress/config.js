@@ -42,6 +42,10 @@ module.exports = {
         link: '/jztoken/'
       },
       {
+        text: '公告',
+        link: '/announcement/'
+      },
+      {
         text: 'GitHub',
         link: 'https://github.com/Jzvd/JZVideo'
       }
@@ -69,6 +73,15 @@ module.exports = {
             '',
             'contract-parameters',
             'related-links',
+          ]
+        }
+      ],
+      '/announcement/':[
+        {
+          title:'公告',
+          collapsable: false,
+          children: [
+            '20-11-11',
           ]
         }
       ],
