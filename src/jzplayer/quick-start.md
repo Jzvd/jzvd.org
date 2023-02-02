@@ -2,7 +2,7 @@
 
 1.添加类库
 ```gradle
-implementation 'cn.jzvd:jiaozivideoplayer:7.5.0'
+implementation 'cn.jzvd:jiaozivideoplayer:7.7.0'
 ```
 
 2.添加布局
