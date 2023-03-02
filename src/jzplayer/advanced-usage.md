@@ -38,6 +38,7 @@ jzvdStdGetGif.setGifListener(new JzvdStdGetGif.GifListener() {
 ```
 效果图
 ![image](./img/gif.jpg)
+![image](./img/gif2.jpg)
 
 ### 方式二
 自己看源码改 (ง •̀_•́)ง加油
