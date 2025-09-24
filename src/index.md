@@ -11,5 +11,5 @@ features:
   details: 三五行代码即可集成视频播放功能，Library代码简洁，Demo清晰易懂，安卓视频之极品。
 - title: 灵活自定义
   details: 灵活的自定义UI，自定义功能，自定义播放内核，实现任何需求。
-footer: Made by jzvd.org
+footer: Made by jzvd.io
 ---
